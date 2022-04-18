@@ -6,9 +6,9 @@
 		"errorForeground": "#c73636",
 		"widget.shadow": "#0f0f0f",
 		"selection.background": "#3d375e7f",
-		"titleBar.activeBackground": "#0f2624",
+		"titleBar.activeBackground": "#003F31",
 		"titleBar.border": "#000000",
-		"titleBar.inactiveBackground": "#1a322f",
+		"titleBar.inactiveBackground": "#0f2624",
 		"statusBar.background": "#205241",
 		"statusBar.foreground": "#c2bfbf",
 		"statusBar.border": "#141414",
@@ -26,18 +26,19 @@
 		"button.background": "#61ffca",
 		"button.foreground": "#0e0e13",
 		"button.hoverBackground": "#49c29a",
-		"list.activeSelectionBackground": "#0f2624",
-		"list.activeSelectionForeground": "#cc00ffc4",
+		"list.activeSelectionBackground": "#270f2dd2",
+		"list.activeSelectionForeground": "#61ffca",
 		"list.focusBackground": "#3b334b",
 		"list.focusForeground": "#a277ff",
 		"list.highlightForeground": "#ffca85",
 		"list.hoverBackground": "#77ffbb0f",
 		"list.hoverForeground": "#ffffff",
-		"list.inactiveSelectionBackground": "#270f2dd2",
-		"list.inactiveSelectionForeground": "#61ffca",
+		"list.inactiveSelectionBackground": "#0f2624",
+		"list.inactiveSelectionForeground": "#cd77ff",
 		"editor.background": "#0e0e13",
 		"editor.foreground": "#edecee",
 		"editorLineNumber.foreground": "#61ffca",
+		"editorLineNumber.activeForeground": "#cd77ff",
 		"editorIndentGuide.activeBackground": "#5e875a",
 		"editorCursor.foreground": "#ea00ff",
 		"editor.selectionBackground": "#6e1da94d",
@@ -88,9 +89,9 @@
 		"panelTitle.activeForeground": "#cdccce",
 		"activityBar.background": "#0e0e13",
 		"activityBar.foreground": "#61ffca",
-		"activityBar.inactiveForeground": "#525156",
+		"activityBar.inactiveForeground": "#515655",
 		"activityBar.border": "#141414",
-		"activityBarBadge.background": "#a277ff",
+		"activityBarBadge.background": "#cd77ff",
 		"activityBarBadge.foreground": "#0e0e13",
 		"activityBar.activeBorder": "#a277ff",
 		"badge.foreground": "#0e0e13",
@@ -201,7 +202,7 @@
 			"storage.type.annotation.dart"
 		  ],
 		  "settings": {
-			"foreground": "#ffca85"
+			"foreground": "#f09724"
 		  }
 		},
 		{
@@ -278,7 +279,7 @@
 			"support.function"
 		  ],
 		  "settings": {
-			"foreground": "#ffca85"
+			"foreground": "#ffd255"
 		  }
 		},
 		{
