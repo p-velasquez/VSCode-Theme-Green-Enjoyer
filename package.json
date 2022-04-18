@@ -1,8 +1,19 @@
 {
     "name": "green-enjoyer",
-    "displayName": "Green Enjoyer",
-    "description": "Just a green palette theme",
-    "version": "0.0.1",
+    "displayName": "Green Enjoyer Dark",
+	"description": "A green based theme for the enjoyers",
+	"version": "1.0.0",
+	"publisher": "PabloVelasquez",
+	"repository": {
+			"type": "git",
+			"url": "https://github.com/p-velasquez/VSCode-Theme-Green-Enjoyer"
+	},
+	"keywords":[
+		"theme",
+		"dark theme",
+		"green theme",
+		"Pablo Velasquez"
+	],
     "engines": {
         "vscode": "^1.66.0"
     },
