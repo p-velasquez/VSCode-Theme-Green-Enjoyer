@@ -1,11 +1,13 @@
-# Green Enjoyer
-
-## This is my personal VSCODE extension , use it if you want to.
+<div align="center"><img src="assets/Green-Enjoyer_Icon" width="120" alt="GE Theme Logo" />
+  <h1 align="center">Green Enjoyers Theme</h1>
+  <p align="center">Green theme for Visual Studio Code.</p>
+</div>
 
 ## Snapshot
-
-<img src="/assets/Captura de pantalla 2022-04-17 203630.png"></img>
+<div align="center"><img src="assets/Green-Enjoyer_Icon" width="120" alt="GE Snapshot" />
+<img src="/assets/Snapshot.png"></img>
+</div>
 
 https://marketplace.visualstudio.com/items?itemName=PabloVelasquez.green-enjoyer
 
-**Enjoy the green!**
+## **Enjoy the green!**
