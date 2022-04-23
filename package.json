@@ -8,12 +8,17 @@
 			"type": "git",
 			"url": "https://github.com/p-velasquez/VSCode-Theme-Green-Enjoyer"
 	},
+    "icon": "assets/Green-Enjoyer-Icon.png",
 	"keywords":[
 		"theme",
 		"dark theme",
 		"green theme",
 		"Pablo Velasquez"
 	],
+    "galleryBanner": {
+        "color": "#1f1f1f",
+        "theme": "dark"
+      },
     "engines": {
         "vscode": "^1.66.0"
     },
